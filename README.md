@@ -14,7 +14,7 @@ A simple and interactive Age Calculator built with HTML, CSS, and JavaScript tha
 ## 🌟 Live Demo
 
 You can view the live demo here:  
-[https://adwaith-753.github.io/Age-Calculator/](https://adwaith-753.github.io/Age-Calculator/)
+[https://adwaith-753.github.io/Age-Calculator/](https://adwaith-753.github.io/age-calculator/)
 
 ## 🛠️ Technologies Used
 
